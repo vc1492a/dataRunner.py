@@ -1,0 +1,6 @@
+.idea
+.DS_Store
+activities.txt
+data_export/*.csv
+data_export/*.json
+config.ini
